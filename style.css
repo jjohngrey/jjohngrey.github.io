@@ -249,7 +249,7 @@ nav ul li a:hover::after{
     font-size: 14px;
     transition: height 0.5s;
 }
-.layer h3{
+.layer h2{
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -285,7 +285,11 @@ nav ul li a:hover::after{
 
 .btn:hover{
     background: #222E50;
+}
 
+.project-img {
+    height: 380px;
+    width: 100px;
 }
 
 /*-------------------CONTACT INFO-----------------*/
